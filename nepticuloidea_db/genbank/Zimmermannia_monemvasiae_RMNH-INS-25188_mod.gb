@@ -1,0 +1,600 @@
+LOCUS       Zimmermannia_monemvasiae_RMNH-INS-25188_mod       15148 bp    DNA     circular UNA 10-DEC-2023
+DEFINITION  .
+ACCESSION   urn.local...9j-h3lnv7c
+VERSION     urn.local...9j-h3lnv7c
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             <1..1545
+                     /gene="COX1"
+     misc_feature    1..11
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????"
+     tRNA            1541..1608
+                     /gene="trnL2(taa)"
+     CDS             1609..2328
+                     /gene="COX2"
+     misc_feature    1884..1904
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????"
+     tRNA            2294..2364
+                     /gene="trnK(ctt)"
+     tRNA            2365..2430
+                     /gene="trnD(gtc)"
+     CDS             2431..2589
+                     /gene="ATP8"
+     CDS             2583..3257
+                     /gene="ATP6"
+     misc_feature    2627..2681
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ?????????????"
+     misc_feature    2737..2809
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ???????????????????????????????"
+     misc_feature    3228..3283
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????"
+     CDS             3257..4045
+                     /gene="COX3"
+     misc_feature    3329..3355
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????????????????????????"
+     misc_feature    3442..3493
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????"
+     misc_feature    3688..3792
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????????????????????
+                     ?????"
+     tRNA            4048..4113
+                     /gene="trnG(tcc)"
+     CDS             4114..4467
+                     /gene="ND3"
+     misc_feature    4128..4141
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????"
+     misc_feature    4348..4392
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ???"
+     misc_feature    4416..4425
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????"
+     tRNA            4501..4564
+                     /gene="trnA(tgc)"
+     misc_feature    4502..4510
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????"
+     misc_feature    4531..4571
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????????????????????????"
+     tRNA            4573..4638
+                     /gene="trnR(tcg)"
+     tRNA            4650..4714
+                     /gene="trnN(gtt)"
+     misc_feature    4651..4730
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????"
+     tRNA            4713..4772
+                     /gene="trnS1(tct)"
+     misc_feature    4759..4814
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????"
+     tRNA            4778..4843
+                     /gene="trnE(ttc)"
+     tRNA            complement(4843..4908)
+                     /gene="trnF(gaa)"
+     misc_feature    4845..4912
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????"
+     CDS             complement(4889..6607)
+                     /gene="ND5"
+     misc_feature    4994..5073
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????"
+     misc_feature    5166..5183
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????"
+     misc_feature    5231..5248
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????"
+     misc_feature    5268..5276
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????"
+     misc_feature    5307..5349
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ?"
+     misc_feature    5373..5404
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????????????????????????"
+     misc_feature    5910..5911
+                     /note="Geneious type: Editing History Insertion"
+                     /gene
+     misc_feature    6085^6086
+                     /note="Geneious type: Editing History Deletion"
+                     /gene="N"
+     misc_feature    6089^6090
+                     /note="Geneious type: Editing History Deletion"
+                     /gene="W"
+     misc_feature    6497..6559
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ?????????????????????"
+     misc_feature    6635..6643
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????"
+     tRNA            complement(6656..6719)
+                     /gene="trnH(gtg)"
+     misc_feature    6664..6671
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????"
+     CDS             complement(6733..8068)
+                     /gene="ND4"
+     misc_feature    7323..7350
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????????????????????"
+     misc_feature    7579
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="A"
+     misc_feature    7590^7591
+                     /note="Geneious type: Editing History Deletion"
+                     /gene="T"
+     misc_feature    7841..7852
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????"
+     misc_feature    7932..7949
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????"
+     misc_feature    7982..8003
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????"
+     misc_feature    8030..8049
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????????????"
+     CDS             complement(8068..8358)
+                     /gene="ND4L"
+     misc_feature    8301..8311
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????????"
+     tRNA            8361..8429
+                     /gene="trnT(tgt)"
+     CDS             8526..9023
+                     /gene="ND6"
+     misc_feature    8743..8756
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????"
+     misc_feature    8801..8851
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ?????????"
+     misc_feature    8872..8883
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????"
+     misc_feature    8903
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?"
+     misc_feature    8958..9015
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ????????????????"
+     CDS             9023..10171
+                     /gene="CYTB"
+     misc_feature    9043..9108
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ????????????????????????"
+     misc_feature    9673..9787
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????????????????????
+                     ???????????????"
+     misc_feature    10136..10169
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????"
+     tRNA            10170..10236
+                     /gene="trnS2(tga)"
+     CDS             complement(10256..11185)
+                     /gene="ND1"
+     misc_feature    10419..10463
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ???"
+     misc_feature    11119..11160
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     "
+     misc_feature    11193..11197
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????"
+     tRNA            complement(11195..11264)
+                     /gene="trnL1(tag)"
+     rRNA            complement(11240..12577)
+                     /product="rrnL"
+     misc_feature    11562..11586
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????????"
+     misc_feature    11974..11976
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???"
+     misc_feature    12018
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?"
+     misc_feature    12053
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?"
+     misc_feature    12150..12193
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??"
+     misc_feature    12241..12242
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??"
+     misc_feature    12281..12383
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????????????????????
+                     ???"
+     misc_feature    12420..12429
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????"
+     misc_feature    12467..12500
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????"
+     misc_feature    12539..12547
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????"
+     misc_feature    12576..12579
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????"
+     tRNA            complement(12596..12659)
+                     /gene="trnV(tac)"
+     rRNA            complement(12660..13428)
+                     /product="rrnS"
+     misc_feature    13114..13161
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ???????"
+     misc_feature    13216..13220
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????"
+     misc_feature    13374..13380
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????"
+     misc_feature    13534..13537
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????"
+     misc_feature    13557..13575
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????????????????"
+     misc_feature    13664..13691
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????????????????????"
+     tRNA            13710..13774
+                     /gene="trnI(gat)"
+     misc_feature    13775..13831
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ???????????????"
+     tRNA            complement(13777..13845)
+                     /gene="trnQ(ttg)"
+     tRNA            13871..13938
+                     /gene="trnM(cat)"
+     misc_feature    13876..13886
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????"
+     CDS             13981..14958
+                     /gene="ND2"
+     misc_feature    14069..14106
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????"
+     misc_feature    14214..14238
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????????"
+     misc_feature    14566..14584
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????????????????"
+     misc_feature    14604..14610
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="???????"
+     misc_feature    14630..14642
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????"
+     misc_feature    14666..14698
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????????????????"
+     misc_feature    14718..14822
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????????????????????
+                     ?????"
+     misc_feature    14846..14857
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="????????????"
+     misc_feature    14860^14861
+                     /note="Geneious type: Editing History Deletion"
+                     /gene="A"
+     misc_feature    14902..14922
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="?????????????????????"
+     tRNA            14958..15024
+                     /gene="trnW(tca)"
+     tRNA            complement(15017..15084)
+                     /gene="trnC(gca)"
+     misc_feature    15032..15091
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????"
+     tRNA            complement(15093..>15148)
+                     /gene="trnY(gta)"
+     misc_feature    15140..15148
+                     /note="Geneious type: Editing History Replacement"
+                     /gene="??????????????????????????????????????????
+                     ??????????????????????????????????????????????????????????
+                     ?????"
+ORIGIN      
+        1 ttttatttgg aaaaatgatt atattcaaca aatcataaag atattggaac attatatttt
+       61 atttttggaa tttgatctgg aataattgga acatcattaa gtttattaat tcgtgctgaa
+      121 ttaggaaatc ctgggtcact aattggagat gatcaaatct ataatacaat tgtaacagct
+      181 catgcattca ttataatttt ttttatagta ataccaatta taattggagg atttggaaat
+      241 tgattagttc cattaatatt aggagctcca gatatagctt tcccacgaat aaataatata
+      301 agattttgat tactcccccc ttcattaata ttattaattt caagaagaat tgttgaaaat
+      361 ggagttggga caggatgaac agtttaccca cctctttcct ctaatattgc acatagaggt
+      421 agttcagtag acttagcaat tttttctcta catttagcag gaatttcatc aattttaggg
+      481 gcaattaatt ttattacaac tgtaattaat atacgaacta atggtatatc atttgatcaa
+      541 atacctttat ttgtatgagc agtagctatt actgctttat tactactatt atcattacca
+      601 gtattagctg gggctattac tatactatta acagatcgaa atctaaatac ttcttttttt
+      661 gacccaatag gaggaggaga tccaattctc taccaacatt tattttgatt ttttggacat
+      721 cctgaagttt acattttaat tttaccagga tttggaataa tttctcatat tattagacaa
+      781 gaaagaggaa aaaaagaaac ttttggaagt ctaggaataa tttatgcaat aataacaatt
+      841 ggtttattgg gatttgtagt atgagctcat catatattta cagtaggaat agatgtagat
+      901 actcgagctt attttacttc agcaacaata attattgcag ttcctacagg aattaaaatt
+      961 tttagatgat tagcaactct tcatggaact caaataaatt attctccatc aatgttatga
+     1021 agattaggat ttgtattttt attcactgta ggaggattaa caggagtaat tttagctaat
+     1081 tcttctattg atattaatct acatgatacc tactatgtag ttgctcattt tcattatgtt
+     1141 ctctctatag gagctgtatt tgcaattata tcaggattta ttcactgata tccattattt
+     1201 actggattaa ctttaaatcc aatattatta aaaattcaat ttttagtaat atttattgga
+     1261 gtaaatttaa ctttttttcc acaacatttt ttaggattat caggtatacc tcgtcgatac
+     1321 tcagactacc cagatatata tatatcttga aatattattt cttcattagg aagatatatt
+     1381 tcatttatcg cagttatatt tattattatt attctatgag aatcaataat taataaacga
+     1441 ttatcattat tccctattaa tttatcatct tcaattgaat ggtatcaaaa tttacctcca
+     1501 gcagaacatt catttaatga attacctatt ttaattaaat tctaatatga cagaatttat
+     1561 gtaatggatt taagacccat ttataaaggt ataatccttt ttttagaaat gcctacatga
+     1621 tcaaatctaa atttacaaaa tagatcctca cctttaatag aacaaattat tttttttcat
+     1681 gaccatacat tagttatttt aacaataatt actattttag taggatactt aatattaaga
+     1741 ttatttttta ataaattcaa taatcgattc ttattagaag gacaaagtat tgaaataatt
+     1801 tgaactattt taccagcaat tacattaatt tttattgcta taccatcatt acgtttatta
+     1861 tatttattag atgaattaaa taatccatta atcacattaa aaataattgg ccatcaatga
+     1921 tattgaaggt atgaatattc agattttcat aatattgaat ttgactcata tataattcaa
+     1981 tctaatgaat taaatataaa tgaatttcgc ttattagatg tagataatcg aatcatttta
+     2041 ccaataaata atcaaattcg tattttagtt tctgctacag atgtaattca ttcatgaaca
+     2101 attccaagat tgggggtaaa aattgatgct actcctggac gattaaatca atcaagattt
+     2161 tttttaaatc gtccaggatt attttatggt caatgttcag aaatttgtgg ggctaatcat
+     2221 agatttatgc caattgtaat tgaaagagta ttaatagaaa attttttaaa ttgaattaat
+     2281 aattataata attcattaga tgactgaaag caagtattgg tctcttaaac cattttatag
+     2341 taaattagca actacttcta atgaaaagaa ttagttaaaa tataacataa atatgtcaaa
+     2401 tttaaattat tatataatta atattctttt attcctcaaa taatacctat aaattgaatt
+     2461 atattattaa tatttttttt aataattttt attatattta atattttaaa tttttttatt
+     2521 tttaataata aaatattaat taataaaata attaaaaaaa attttaaaaa atttaactga
+     2581 aaatgataac aaatttattt tctgtttttg atccatccac aaatatttta aatttatcta
+     2641 ttaattgatt aagaacattt ctaggaataa tatttcttcc ctattatttt tgattaattc
+     2701 ctaatcgtta tatatatata tgaaacgtaa tttttaataa attacataat gaatttaaaa
+     2761 cacttttaaa ttctaataat tatggatcta cttttatatt tatctcttta ttttcatttg
+     2821 ttttatttaa taatttttta ggtctatttc cttatatttt tacaagaact agacacttaa
+     2881 cattatcatt aatattaact ttaccattat gaataacttt tatattttat ggatgaatta
+     2941 ataacactca acatatattt agtcacttaa ttccacaagg aaccccaaga attttaatac
+     3001 cttttatagt tttaattgaa acaatcagaa atctaatccg ccctggaact ttagctgtac
+     3061 gattaacagc aaatataatt gcaggacatt tacttataac tttattagga aacacaggaa
+     3121 atagattttc aatttatttt atttatattt tattaattat tcaaattata ttattaatct
+     3181 tagaatcagc agttgcaatt attcaatctt acgtaattgc aattttaaca acattatact
+     3241 ctagagaagt taattaatga caaataacca aaatcatcca ttccatttag tagattatag
+     3301 tccatgacct ttaactggag ctattggagt tttaattata gtttcaggaa tagtaaaatg
+     3361 attccatcaa tttaatatat atttattatc tttaggatat ttaattattt tattaacaat
+     3421 atatcaatga tgacgagatg tatgccgtga aagaactttc caaggaaaac acactttctt
+     3481 agtatcgaga ggattacgat gaggaataat tttatttatt gtatctgaag tatttttttt
+     3541 tttatcattt ttttgagctt ttttccatag aagattatcc cctactgttg aaattggatc
+     3601 tatatgaccc cctataggaa ttcatccatt taatcctttc caaattccac ttttaaatac
+     3661 aatcatttta ttaagatcag gaattactat tacatgagct catcacgctc ttataataaa
+     3721 taataaaact caaacaactc aaggattatt ttttacagta attttaggat tatattttac
+     3781 aattttacaa gcatatgaat atatagaagc tccattttct attgctgata gaatttattg
+     3841 atcaactttt tttatagcaa ctggatttca tggattacat gtaatcattg gaactttatt
+     3901 tttaagaatt tgtcttattc gtcatttaaa taatcatttt tcaataaatc atcattttgg
+     3961 atttgaagca gcagcttgat attgacattt tgtagatgta gtttgattat ttttatatat
+     4021 ttctatatat tgatgaggta gataattatt tatataatat atttagtata tttaacttcc
+     4081 aattaaaaag attaatttaa attaatataa ataatattta taataatata tttatctata
+     4141 attatttttt taatttcaaa tattttaata attttatcta tttttatttc taaaaaatca
+     4201 tttatagatc gagaaaaatc atctccattt gaatgcggat ttgaccctaa atcaatatct
+     4261 cgaattcctt tctcactaca ttttttttta attacagtaa tttttttaat ttttgatgta
+     4321 gaaattgcat taatttttcc aataattatt tcaatgaaat cagttaattt aattaattga
+     4381 ataattacaa gatcattttt tattattatt ttattggtag gtctttatca tgaatgaaac
+     4441 caaaatatat taaattgaat taattaatta attataaaaa attatttatt tatttatata
+     4501 aggattatag tttataaaac atttgatttg cattcaaaaa atactaatta attagtttat
+     4561 cttaatttat ataaataaga agcaattatt ttgcatttaa tttcgactta aaagactgag
+     4621 aatataactc cttatttata ataatttaat taattgaaac caaaaagagg tatattactg
+     4681 ttaataatat tattgaataa atattccaat tagaaataaa atgaataaaa ttaagcttct
+     4741 aactttattt ttagtggtcc attaatattt ctttcttatt tatatagttt atttaaaaca
+     4801 ttacattttc actgtaaaaa taaaatattt ttttttataa attacttaaa gatttaaaaa
+     4861 tctctttaat atcttcaata ttatactcta aaaataagtt atttaagtat atataaatta
+     4921 taaatataaa aatatttatt aaaataaaaa taaaaaatct aaataaataa atttttaaat
+     4981 tattaatttg tacaatttga taaatattaa taaactttaa taaaataata aaaatcccct
+     5041 gtcttctcaa tatttctctt cacccataat caatatattt taataaaatt tttmcaaatt
+     5101 ttaaaaaaaa aagatttat? ccataagttc ttaaatttgg tataaataat attaaagata
+     5161 aaaatcttct aatttcaaaa aaaattttaa atttattttt tgaataaaaa tttatttttc
+     5221 ttaatatata ccctattaag atacctaaaa aactaacata aattactata aattttaaat
+     5281 taaatggtaa ataaattata taaggattaa aaaataataa tcaatttaat aatctaccac
+     5341 taattaaagt cataaaaaat aaaataaata ttctttttaa tatattataa tcttcatcat
+     5401 ataaattata aattctaatt aaattaaaat cattaattat taaataaaaa attaaacgta
+     5461 ttgtataaca tattgttaat ccagtagaaa aataaaataa aaaaaaatta aaaatattaa
+     5521 aatttcttaa actaactatt tctaaaatta tatctttaga ataaaatcca gctaaaaaag
+     5581 gaataccaca taaagataaa ttagaaaaat taaaacataa agaagttaaa ggaataaaat
+     5641 ttgttaatcc tcctataact cgaatatcct gtatattatt tattaaatga ataataacac
+     5701 cagcgcatat aaataataat gctttaaata tagcatgagt taataaatga aaaaaagcta
+     5761 aatcaaaata acctattctt aaaattctta ttattaatcc taattgtctt aaagttgata
+     5821 aagcaataat cttttttaaa tcaaattcaa aatttgctga aattccagct ataaatatag
+     5881 ttaatccaga taataataat aaaaatttta aaaaaaaaaa tgtatttact aataaattat
+     5941 taaatcgaat taataaataa actcctgccg taactaaagt agaagaatga actaaagcag
+     6001 aaacaggagt aggtgctgct atagcagctg gtaatcatga agaaaaagga atttgagctc
+     6061 ttttagttat agaagctaaa ataataaaaa tacccacaat atacatataa ttatctaata
+     6121 aaaataaatt ttctaaataa aataaataat ttcatcttcc ataatttaat attcaagaaa
+     6181 tacctaataa aatacaaaca tctccaattc gattagataa ggcagttaat ataccagcat
+     6241 tataagattt tacattttga taaaaaatta ctaaacaata agaaattaaa cctaacccat
+     6301 ctcaacctaa taaaattcta ataatattag gcctaataac taatattatt attctaaaaa
+     6361 caaaaaataa aactaaaata ataaaacgaa ataaattttt ttctgatctt atataacttt
+     6421 ttctataaaa taaaactaca gaagaaatta ataaaacaaa acttataaat attaaagaca
+     6481 ttcaatctaa taaaataact ataactactc tactagaatt taaagaaata atttcccact
+     6541 ctaaaataat tattaaatta tttataataa aataaattct acaaaaaaaa aaaaaaaatc
+     6601 ttaaaataaa aagaaaaaaa tatcttaaaa aacaaataga aataattaaa taaataactt
+     6661 aaaatgaaac tcatattttt gaaaccacaa atcaatattt ttaattaaat tatttaagta
+     6721 aattaattta aaatcaaatt attctataat caatctttaa aaaaaaaata tttaaaggaa
+     6781 accaatgtaa aaataatagt aagtattctc gagaaacacc tgaataaaat ctatatattc
+     6841 cattaaaata aattccatgt tgactataag aatataaata ataacaatat ccagcactaa
+     6901 aaaaagaaat taatataata aaaattattg ttaatcatct tcaaccaact aatctattaa
+     6961 ttaaactaat ttcacctatt aaatttaatg aaggaggtgc agccatatta gaagaaagaa
+     7021 ataaaaatca tcatattctt attgaaggta taatattaat catcccctta ttaatatata
+     7081 gtcttcgact atgaaatcgt tcataattaa tatttactaa acaaaataaa ccagaagaac
+     7141 ataatccatg cccaattatt aaaatataag atccaataaa tcctcaaata tttaaagtca
+     7201 taatacctga taaaacaatt cttatatgag caacagaaga ataagcaatt aaagatttta
+     7261 tatctgtttg acaaaaacat attaaacaaa cataaaatcc accaattaaa ctaattctaa
+     7321 taaataactc tctaaaattt aaactaatac tttgaaataa aattaaaac? cgtaataacc
+     7381 catatccccc taattttaac ataataccag ctaaaattat tgaacctgaa acaggagttt
+     7441 caacatgagc ttttggtaat cataaatgaa caaaatatat aggtattttt actaaaaaag
+     7501 caaaaattat aacaaaatat attaataaat aattaaaatt ataaaatttt ataaaataaa
+     7561 ttattatatt atttcattca ttataaataa aaaaaatacc taataataat ggtaaagaag
+     7621 caaataaagt ataaaataat aaatataaac tagcctgaat tcgttcacat tgataccctc
+     7681 aacctataat taaaattaaa gtaggaatta atcttctctc aaaaaataaa taaaatataa
+     7741 ataaatttaa tgttctaaaa gttattatta atattattaa taaaataatt aaatttaaaa
+     7801 taaataaatg ataaaaataa tttattttaa ataaattttc actagccatt aatattaata
+     7861 aacaaattca aattcttaat ataattaatc cataagaaat aatatcacaa ccaaaaaaat
+     7921 aacttaaatt aactgtataa tcaatcttta atctacaaat taaaaaaata aaaaataata
+     7981 taaatattga tatttgaacc attcaatata tattttttaa taaacaaaaa gaattataaa
+     8041 ataagcctat taaaataaat tttatcatta taataaatta aacctttgaa aataatcatt
+     8101 tccatgagtt cgaattatag aaactaaaat agataatcct aaagcccctt cacaaacaga
+     8161 aaaaactaaa aagaccataa gaaaatatat tatatattct attagtaata aataaattaa
+     8221 taaaaaaaaa tataaactta atataataaa ttctaatctt aataaaataa ttaataaatg
+     8281 tttatgttta gaaataaaaa ttatattacc aataataaat atatataaag aaattaaata
+     8341 tataaaaaat attatcatta gtttttatag tttaaataaa acattggtct tgtaaatcaa
+     8401 aaaaaaaata attatttatt tttaaaactt caaagagaga aacaattcta tcaataatct
+     8461 ccaaaattat tatttttttt aaactaatct ttgaaattat taaaataatt ttaagatttt
+     8521 tattagtaac tttttcaaat attatatttt ttttaaataa tcccctatca ataggtctaa
+     8581 taatcttaat tcaaacatta ttaacatgtt tattaacagg tataataata aatacttatt
+     8641 gattttctta tattttattt ttaacatttt tagggggatt attagtatta tttatttatg
+     8701 tttcaagaat ttcctcaaat gaaatattta aattttcaat aataatattt tacagaataa
+     8761 taactttttt aataattata atatttatat gtatatattt taaaaataac ttattttgga
+     8821 taaactactc cttaaataca gaaataaaat catttattga taaatatata ttttttaata
+     8881 atgaaaataa aattaattta aataaattat ataataataa aaatttatta ataataataa
+     8941 taattattta tttattaatt tctttaattg ccattgtaaa aattactaat attttctttg
+     9001 gacctttacg aacaataaac taatgataaa taaatataaa tctttacgaa aaatacatcc
+     9061 aattttaaaa attattaata attcattaat tgatctacca accccattaa atatttcatc
+     9121 ttgatgaaac tttggttctc tattaggatt atgtttaata attcaaatta ttacaggttt
+     9181 atttttaact atacattatt ctgctaatat tgaattagca ttctacagag taaaccatat
+     9241 ttgtcgaaat gttaattatg gatgattaat tcgaactata catgctaatg gagcttcttt
+     9301 tttttttatt tgcatctatt tacatgtagg tcgaggttta tattatgaat catatttata
+     9361 taaatacaca tgattaattg gagtaattat cttattttta ttaatagcaa cagcatttat
+     9421 aggatatgta ttaccctgag gacaaatatc tttttgagga gctactgtaa ttacaaattt
+     9481 attatctgca attccttatt taggaaatat attagttaac tgaatttgag ggggatttgc
+     9541 cgtagataac gcaactttaa ctcgatttta cacattccat tttatcctac catttatttt
+     9601 attaataata acaataatcc atttaatatt tcttcaccaa acaggatcta ataatcccct
+     9661 aggaattaat agtaatattg acaaaattcc ttttcatcca tattttacct ttaaagattt
+     9721 aattgggttt atattaataa tttcaatatt aacttattta acattattaa atccttactt
+     9781 acttggagat cctgataatt tcattccagc taatccacta gtaaccccca ttcatattca
+     9841 acctgaatga tattttttat ttgcttatgc aattttacga tcaattccta ataaattagg
+     9901 aggagtaatt gctttagtta tgtcaattgc aattttattt attataccat ttacatttaa
+     9961 aaaaaaaatt caaggacttc aattttatcc tataaatcaa atattatttt gaagaatagt
+    10021 tactacagtt atacttctaa cttgaattgg agcacgacct gttgaagatc cttatattat
+    10081 tacaggacaa attttaacag tatattattt tttatatttt ataattaatc caattactgc
+    10141 aatatattga gataaaatta ttaatatata attaatgagc ttgtaaaagc atttgttttg
+    10201 aaaacttaag aaagaactta aatattctat taatttatac taaaattatt ttaaattata
+    10261 aattaaaaaa aataaataaa tttaaaaaaa ataataaaaa atttaaagaa acaggtaaat
+    10321 aaatttttca agctaaatat attaatttat cataacgata tcgaggtaat gttcctcgaa
+    10381 ctcaaataaa taaaaatgaa ataaaaatta tctttaaata aaaaaaaaat cttaaataat
+    10441 aaccacctaa aaataataaa cagaataaaa atcttataaa taaaattctt ctatattctg
+    10501 ctaaaaaaat taaagaaaaa cctcttcttc tatattcaat attaaatcct gaaactaatt
+    10561 ctctttctcc ctcagcaaaa tcaaaaggag ttcgattagt ttcagctaat ctagaagaaa
+    10621 atcatataat agtcaaagga aatatcaaaa aaataaatca aattaattct tgaaaaaaaa
+    10681 aaaaatataa attaaatctt ataattaaaa taattctaga taatataatt aaagctaatc
+    10741 taacttcata agaaatagtt tgagcaacag ctcgtaaacc tcctaataaa gcataattag
+    10801 aattagaaga tcaaccagaa attataactg tataaactcc tatacttgta caacaaaaaa
+    10861 aaaataataa tcctaaatta aaagaaataa aattaaaata ataaggaact attaatcaaa
+    10921 taaataaaga aataaaaaat ctaacaattg gagaaaaata ataacaaata taatttgata
+    10981 aataaggata agtttgttct tttctaaata atttaattcc atctgaaaaa gtctgtaata
+    11041 accctataaa tcctaattta ttaggacctt ttcgaatctg aatatatcct aaaaccttac
+    11101 gttctaataa aactaaatat gctaccccaa ttaaaatccc taaaattaaa ataaatatac
+    11161 ctaaaaaaat cataaaaaaa tctatataaa taattactat ttatataatc ttaattatat
+    11221 ataaatgaat tctaaaatca acacataaat tctgccaaaa tagcataaat aaaatattaa
+    11281 taaaattctt aaattaaaat tattttaaat atttgatcct ttcgtactaa aatatttatt
+    11341 tattaaaaag atagaaacca acctggctta caccggtttg aactcagatc atgtaagatt
+    11401 ttaatgatcg aacagatcaa aaatatttaa cttttacatt aaatttttat cttaatccaa
+    11461 catcgaggtc gcaaactttt atttttatat gaactaaaaa aaaaaattac gctgttatcc
+    11521 ctaaggtaat ttattcttat aattaaaaat attagatcaa taaatcataa atcaatgttt
+    11581 aatcttttaa aaaagttaaa ttaatttttt tatcacccca ataaaatttt aacttttaat
+    11641 tataaaataa attatataaa aatttataat aaaaatatta aaataaaact ctatagggtc
+    11701 ttctcgtctt ttttaaaaat tttagctttt ttactaaaaa attaaatttt atatattata
+    11761 aagagacaga ttatatttca tcaaatcatt cataccagtc ttcaattaaa agactattga
+    11821 ttatgctacc tttgtacagt caaattactg cagcccttta aataaattca gtgggcagat
+    11881 cagactttaa atataaacaa aaagacatgt ttttgataaa caagtgaata taaatttaaa
+    11941 tttgccgaat taattttatt aaattttttt attataaatt aatttataca taaaaaatat
+    12001 actaatttta tcattatcta aaaataaatt aaattaaaat aatagttttt ataataaatc
+    12061 aataaaataa attaaattat tttttattaa aaaaaattat ttataacaaa ttaaaattat
+    12121 ttaataatat taattatata aattttt??t aaacaatata taaatataac aatttacttt
+    12181 taagattatc cctaaaaata tttttataaa attaaataaa attaataaaa taaaattata
+    12241 ttaaaaatat aaataaatta aatttatttc taaaaaaact agatatttta aaaaacgatt
+    12301 aacatttaat ttctaattaa ttatttataa tatttattca acaataacta taataattaa
+    12361 ttaactcttt ttaattcgag aatattaaat aattaatatt taattgataa actttgatac
+    12421 acaaaataca ataaataaaa tctactttta tttaaataaa ttttcaatta tttcatattt
+    12481 cttttacaat actaattttc tataaataaa taaatttttt ttttataaaa atttaacccc
+    12541 tattaaatta tataaaaata tttttattaa tttttattca ttaatattat ttttgttaaa
+    12601 ttaattgaat taacaatatc ttttcaatgt aaatgaaatg ctatataagc tttaatttaa
+    12661 tatttctaga aacactttcc agtacctcta ctttgttacg acttatctca atttaaaatg
+    12721 agagcgacgg gcaatatgta cttattttaa atttaaatca ttaaattata ataaatttaa
+    12781 ttacatttaa atccaatttc aaataatttt taaaaaatat tattcattta aattaatttt
+    12841 attgtaatcc attatattct taattataaa ct?catcttg atttgattta tttttttata
+    12901 taaattttaa aatattatta ttttttaaaa atatttttat aacaacgata tataaattaa
+    12961 taaattaagt aaatttaatc gtggaatatc aattaataaa cagattcctc taaataaact
+    13021 aaaataccgc caaatttttt aagtttaaat atttaatatt tactatttaa gtaatttatt
+    13081 taaatttaaa ataatagggt atctaatcct agtttaataa aaaatttatc aaatattaat
+    13141 attaaattaa atttttatta attaaaattt cacttaataa tttaaaattt attttaaatt
+    13201 tatataaata atacttgatt actaataaaa tttaatttat attttgtata accgcaactg
+    13261 ctggcacaaa atttgtttat aattttaata ttactaaata ttaaattatt aattatttaa
+    13321 tattaaatac tg?aaaataa atatattttt aaaataaaaa aaattaatac aaaaatttac
+    13381 atataaaata aattttaaat aaaattttca aactaaaata attttttttt attaggaaca
+    13441 aaaaacaata gttttttttt tttttttttg tagaaaattt ttatatatat atataaatta
+    13501 tttataatta tatatatata tattatttat ataatattaa taaatataaa ttatttaata
+    13561 ttcatataaa ttaaataata atttatattt ttttttttta attatatata taaatatata
+    13621 tttaataata taataaatat tttattatta ttaaaatatt aatattatat gaactttttc
+    13681 taacccatat gtttaaaaat ttttaataaa ataaagtgcc tgattaaagg attattttga
+    13741 tagaataaaa aaagtagata ttctaccttt attaatttat attttataga attaaactat
+    13801 aactaaaagt atcaaaaact tttgtgcatc atacactaaa atatatatat atatatataa
+    13861 ataattatat taaaaaataa gctaattaag ctaatgggtt cataccccat ttataaaggt
+    13921 aaaatccttt ttttttaaat ttatatatac ataaatatta ataaattatt tttttttttt
+    13981 attttatttt ttagaacatt aattgcagta tcatcaaatt cttgattagg ttgttgaatt
+    14041 ggattagaaa ttaatttatt aagatttatc cccttaatct caaattctaa taacctttta
+    14101 tgttcagaag ctgcattaaa atattttctc actcaagcta tagcttcatc aaatttttta
+    14161 atattaatta ttttaaatta tatttttaat aatttttttt ataataatta ttatatctta
+    14221 attataataa attgttcatt attaataaaa ataggatctg ccccttttca tttctgattt
+    14281 attaatattt tagaaggatt atcatgaata aattgtttta ttttaataac atgacaaaaa
+    14341 attaccccta taattttatt atcatatttt tacaataaac aatttttgat aattattatt
+    14401 ataattactt gtattattgg agcaattggt ggattaaatc aaaaatcttt acgtaaatta
+    14461 ataggatttt catcaattaa taatatagga tgaataatct ctgcaataat aataagagaa
+    14521 aatttatgaa atttttattt ttttatatat tcatttttaa caataattat atgctatata
+    14581 ttctttttaa ttaatgtatt tcatattaat caaatttatt actttaattt agataaaaca
+    14641 actaaatttt ttattttcat aaacttatta tctttggggg gactaccccc atttttagga
+    14701 tttttaccta aatgaattat tattaacaat atattatcaa ataatataaa ttttatttca
+    14761 atgtttataa tctttatatc tttaattacc ttatattttt atattcgaat ttgctattca
+    14821 gcatttttat ttaataatat taaaataaaa tgatttaatt tttatatcaa aaatttttta
+    14881 ataaattatt ttataataat atctaccatt tctttaatta gattaataat tagaaccttt
+    14941 atatattaca tcatttaaag gttttaagtt aaattaaact aataatcttc aaaattatta
+    15001 ataaagaaat ttctttaagc cttaatatat tatgtatata cacctttaaa tttgcaattt
+    15061 aatatcaatt ttgaatataa agcttaataa tttaataaaa gagattattc tcgtaaataa
+    15121 atttacagtt tatcgcttaa actcagcc
+//

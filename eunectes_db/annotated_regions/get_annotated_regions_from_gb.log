@@ -1,0 +1,10 @@
+stdout:
+
+stderr:
+Traceback (most recent call last):
+  File "/data/dick.groenenberg/miniconda3/envs/go_fetch/bin/get_annotated_regions_from_gb.py", line 600, in <module>
+    main()
+  File "/data/dick.groenenberg/miniconda3/envs/go_fetch/bin/get_annotated_regions_from_gb.py", line 390, in main
+    raise IOError(options.out_put + " exists!")
+OSError: /data/dick.groenenberg/go_fetch/eunectes_db//annotated_regions exists!
+

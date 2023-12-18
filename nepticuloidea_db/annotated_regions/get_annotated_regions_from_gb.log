@@ -1,0 +1,9 @@
+stdout:
+Time cost: 0.024239301681518555
+
+stderr:
+/data/dick.groenenberg/miniconda3/envs/go_fetch/lib/python3.8/site-packages/Bio/GenBank/__init__.py:352: BiopythonParserWarning: It appears that '16273..8' is a feature that spans the origin, but the sequence topology is undefined. Skipping feature.
+  warnings.warn(
+/data/dick.groenenberg/miniconda3/envs/go_fetch/lib/python3.8/site-packages/Bio/GenBank/__init__.py:352: BiopythonParserWarning: It appears that '15077..8' is a feature that spans the origin, but the sequence topology is undefined. Skipping feature.
+  warnings.warn(
+
